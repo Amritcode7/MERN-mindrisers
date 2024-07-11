@@ -1,0 +1,27 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 3px solid black;
+  padding: 8px;
+  text-align: center;
+ 
+}
+
+th {
+  background-color: rgb(180, 183, 160);
+
+  font-size: 30px;
+}
+
+td {
+  background-color: rgb(51, 93, 107);
+  font-weight: bold;
+  color: rgb(195, 238, 238);
+}
+h1 {
+  text-align: center;
+}
